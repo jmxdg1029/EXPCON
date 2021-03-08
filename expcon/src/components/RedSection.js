@@ -6,9 +6,7 @@ import speaker2 from '../components/images/medium27.png';
 
 class RedSection extends Component {
     
-    render() { 
-        
-
+    render(){ 
         return ( 
         <div className="red-section">
             <a href="#" className="try_it_now float-right" ><span>TRY IT NOW</span></a>
@@ -30,9 +28,9 @@ class RedSection extends Component {
                     <div className="speaker-img2"><img src={speaker2}/></div>
                     </div>
                 </div>
-              
+                <div className="cicle-click "><a href="#" className="click"  style={{fontSize:"1.7em"}}>CLICK</a></div>
             </div>
-            <div className="cicle-click float-right"><a href="#">Click Me</a></div>
+           
         </div> );
     }
 }

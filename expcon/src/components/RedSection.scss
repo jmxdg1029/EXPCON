@@ -41,6 +41,7 @@ pointer-events: none;
   --size: 500px;
 }
 
+
 .see-demo{
   position:relative;
   -webkit-appearance: none;
@@ -105,13 +106,16 @@ pointer-events: none;
   background: transparent;
   position: absolute;
   text-align: center;
-  top: 30%;
+  top: 83%;
+  left: 71.9%;
   
 }
 
-.circle-click a{
+.click {
+  text-align: center;
+  position: relative;
   text-decoration: transparent;
-  top: 100px;
+  top: 25px;
 }
 
 .cicle-click a:hover{

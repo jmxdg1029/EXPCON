@@ -10,8 +10,10 @@
     "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.1",
+    "react-circular-reveal": "^1.2.2",
     "react-dom": "^17.0.1",
     "react-image-gallery": "^1.0.9",
+    "react-rounded-image": "^2.0.11",
     "react-scripts": "4.0.3",
     "scroll-snap": "^3.2.3",
     "web-vitals": "^1.1.0"
