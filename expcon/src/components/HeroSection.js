@@ -25,7 +25,7 @@ class HeroSection extends Component {
                         <a href="#" className="btn-mix-noborder" >TRY IT NOW</a>
                 </div>
          
-                <ImageGallery  additionalClass="hero-slide"className="hero-slide" showThumbnails={false} showBullets={true} showNav={false} showFullscreenButton={false} showPlayButton={false} items={image}>
+                <ImageGallery  additionalClass="hero-slide"className="hero-slide" showThumbnails={false} autoPlay={true} showBullets={true} showNav={false} showFullscreenButton={false} showPlayButton={false} items={image}>
                 </ImageGallery>
            
                 {/* <Carousel >
