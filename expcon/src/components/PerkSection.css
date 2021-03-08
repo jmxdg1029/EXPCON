@@ -1,0 +1,55 @@
+.perk-heading{
+    display: absolute;
+    bottom: 700px;
+    font-size: 5em;
+}
+
+.display-perk{
+    position: flex;
+    margin-top: 20%;
+}
+
+.blue-desc{
+    top: 70%;
+}
+
+
+.red-desc h2{
+    font-size: 2.5em;
+    color: #ff4d4d;
+}
+
+.blue-desc h2{
+    font-size: 2.5em;
+    color: #61dafb;
+}
+
+.yellow-desc h2{
+    font-size: 2.5em;
+    color: #ffc40c;
+}
+
+.red-desc p{
+    font-size: 1.5em;
+}
+
+.blue-desc p{
+    font-size: 1.5em;
+}
+
+.yellow-desc p{
+    font-size: 1.5em;
+}
+
+.red-desc hr.red-hr{
+    border-top:1px solid #ff4d4d;
+}
+
+.blue-desc hr.blue-hr{
+   
+    border-top:1px solid #61dafb;
+}
+
+.yellow-desc hr.yellow-hr{
+    border-top:1px solid #ffc40c;
+}

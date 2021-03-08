@@ -5,7 +5,7 @@ import RedSection from './components/RedSection';
 import ScrollSnap from 'scroll-snap';
 import NavTool from './components/NavTool';
 import YellowSection from './components/YellowSection';
-
+import PerksSection from './components/PerksSection';
 
 
 function callback(){
@@ -35,6 +35,7 @@ componentDidMount(){
           <HeroSection />
           <RedSection />
           <YellowSection />
+          <PerksSection />
         </div>
       </div>
     );

@@ -4,10 +4,12 @@ import ReactRoundedImage from 'react-rounded-image';
 import gambino from '../components/images/Image 4.png';
 import { CircularRevealPanel } from 'react-circular-reveal';
 import {useTrail} from 'react-spring'
+import NavTool from './NavTool';
 
 
 
 const YellowSection = () => {
+    
         const [position, setPosition] = useState({x: 0, y: 0});
         useEffect(() => {
                    addEventListeners();
@@ -31,10 +33,10 @@ const YellowSection = () => {
             
             <div className="yellow-section">
                 <div className="cursor"
-           style={{
-               left: `${position.x}px`,
-               top: `${position.y}px`
-           }}/>
+                style={{
+                    left: `${position.x}px`,
+                    top: `${position.y}px`
+                }}/>
                 <a href="#" className="try_it_now-y float-right" ><span>TRY IT NOW</span></a>
                 <div className="container">
                 <div className="row display-yellow">

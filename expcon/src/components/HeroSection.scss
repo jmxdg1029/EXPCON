@@ -1,44 +1,11 @@
-#image_1{
-    background-image: url('../components/images/image\ 1_1.png');
-    background-repeat:no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-
-
 .image-gallery-slides{
   height: 100vh;
   object-fit: cover;
   background-repeat:no-repeat;
   background-size: cover;
+  
 }
 
-
-#image_2{
-  background-image: url('../components/images/Image\ 2.png');
-  background-repeat:no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
-#image_3{
-  background-image: url('../components/images/Image\ 3.png');
-  background-repeat:no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
-
-
-#image_1:after, #image_2:after, #image_3:after{
-  content: "";
-  display:block;
-  position:absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: #000;
-  opacity: 0.3;
-}
 .carousel-title {
   font-size: 4em;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -64,8 +31,10 @@
 
 $bg-color: #222;
 
+
+
 [class*="btn-"] {
-  outline:0;
+  outline:1px;
   border-radius: 50px;
   font-size: 0.8em;
   font-family: 'Roboto', sans-serif;
@@ -73,7 +42,6 @@ $bg-color: #222;
   letter-spacing: 4px;
   overflow: hidden;
   position: absolute;
-  bottom: 15%;
   padding: 1.6em 5em;
   margin: 4em;
   z-index: 20;
@@ -88,6 +56,14 @@ $bg-color: #222;
   }
 }
 
+.perk-button{
+  left: 85%;
+}
+
+.try_bt{
+  bottom: 15%;
+}
+
 [class*="btn-mix"] {
   &::after {
     background: $bg-color;
@@ -95,13 +71,10 @@ $bg-color: #222;
     content: attr(data-text);
     color: #fff;
     padding: 1.6em 2.5em;
-    top: 0.4em;
-    left: 0.5em;
     -moz-user-select: none;
     user-select: none;
   }
   &::before {
-    background: transparent;
     border-radius: 100%;
     top: 50%;
     left: 50%;
@@ -148,6 +121,7 @@ $bg-color: #222;
 a {
     color:white;
     text-decoration: none;
+    opacity: 100%;
 }
 
 a:hover{
