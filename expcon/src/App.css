@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  cursor: default;
+}
+
+#container{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  overflow: auto;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-section{
+  
+  position: relative;
+  height: 100vh;
+  min-height: 100vh;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #61dafb;
+}
+
+.red-section{
+  position: relative;
+  height: 100vh;
+  min-height: 100vh;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #ff4d4d;
+}
+
+.yellow-section{
+  position: relative;
+  height: 100vh;
+  min-height: 100vh;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #ffc40c;
+}
+
