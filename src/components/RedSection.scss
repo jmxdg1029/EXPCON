@@ -69,8 +69,10 @@ pointer-events: none;
 }
 
 .display-red{
-  position: flex;
-  margin-top: 30%;
+  align-items: center;
+  position: relative;
+  margin-top: 7%;
+  left: 10%;
  
 }
 
@@ -79,17 +81,20 @@ pointer-events: none;
   right:50%;
 }
 
+.speaker-img, .speaker-img2{
+  overflow: auto;
+  position: relative;
+  height: 350px;
+}
+
 .speaker-img{
-  position: absolute;
-  bottom: 1%;
-  left:-30%;
-  margin: 2%;
+  padding-left: 23%;
 }
 
 .speaker-img2{
-  position:absolute;
-  top:30%;
-  left:150%;
+  bottom: 40%;
+  left:25%;
+  padding-left: 33%;
 }
 
 .display-red h1{
@@ -106,8 +111,8 @@ pointer-events: none;
   background: transparent;
   position: absolute;
   text-align: center;
-  top: 83%;
-  left: 71.9%;
+  top: 97%;
+  left: 48.9%;
   
 }
 

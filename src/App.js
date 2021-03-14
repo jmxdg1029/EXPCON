@@ -6,6 +6,7 @@ import ScrollSnap from 'scroll-snap';
 import NavTool from './components/NavTool';
 import YellowSection from './components/YellowSection';
 import PerksSection from './components/PerksSection';
+import BlueSection from './components/BlueSection';
 
 
 function callback(){
@@ -36,6 +37,7 @@ componentDidMount(){
           <RedSection />
           <YellowSection />
           <PerksSection />
+          <BlueSection />
         </div>
       </div>
     );

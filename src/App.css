@@ -59,3 +59,14 @@ a{
   box-sizing: border-box;
   background-color:black;
 }
+
+.blue-section{
+  cursor: none;
+  position: relative;
+  height: 100vh;
+  min-height: 100vh;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color:#00FFFF;
+}
