@@ -69,9 +69,8 @@ pointer-events: none;
 }
 
 .display-red{
-  align-items: center;
   position: relative;
-  margin-top: 7%;
+  top: 35%;
   left: 10%;
  
 }
@@ -82,19 +81,18 @@ pointer-events: none;
 }
 
 .speaker-img, .speaker-img2{
-  overflow: auto;
-  position: relative;
+  position: absolute;
   height: 350px;
 }
 
 .speaker-img{
-  padding-left: 23%;
+  bottom: 20%;
+  padding-left: 13%;
 }
 
 .speaker-img2{
-  bottom: 40%;
-  left:25%;
-  padding-left: 33%;
+  left:10%;
+  padding-left: 43%;
 }
 
 .display-red h1{
@@ -111,9 +109,8 @@ pointer-events: none;
   background: transparent;
   position: absolute;
   text-align: center;
-  top: 97%;
-  left: 48.9%;
-  
+  top:100%;
+  left: 42.9%;
 }
 
 .click {

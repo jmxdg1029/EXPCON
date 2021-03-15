@@ -1,0 +1,23 @@
+.display-blue{
+    position: flex;
+    
+}
+
+.artist-display{
+    top:50%;
+}
+
+.blue-speaker, .blue-speaker2{
+    position:absolute;
+    height:350px;
+    margin-top: 70%;
+}
+
+.blue-speaker{
+    bottom: 80%;
+}
+
+.blue-speaker2{
+    top: 100%;
+    left: 11%;
+}
