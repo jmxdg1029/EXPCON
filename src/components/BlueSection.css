@@ -1,23 +1,43 @@
 .display-blue{
     position: flex;
-    
+
 }
 
-.artist-display{
-    top:50%;
+.blue-heading{
+    justify-content: center;
+    position: relative;
+    left: 10%;
+    margin-top: 15%;
+    font-size: 4em;
+}
+
+.artist-display, .produce-display, .music-display{
+    position: relative;
+    flex-direction: column;
+    margin-top: 20%;
+    right: 7%;
+}
+
+.star{
+    font-size: 2.5em;
+}
+
+p{
+    font-size:2em;
 }
 
 .blue-speaker, .blue-speaker2{
     position:absolute;
-    height:350px;
+    height:390px;
     margin-top: 70%;
 }
 
 .blue-speaker{
-    bottom: 80%;
+  position: relative;
+  bottom: 10%;
 }
 
 .blue-speaker2{
-    top: 100%;
-    left: 11%;
+    top: 15%;
+    left: 20%;
 }

@@ -9,20 +9,24 @@ class BlueSection extends Component {
         <div className="blue-section">
             <a href="#" className="try_it_now float-right" ><span>TRY IT NOW</span></a>
             <div className="row display-blue">
+                
                 <div className="col">
                     <img src={blue_speaker} className="blue-speaker"/>
                     <img src={blue_speaker2} className="blue-speaker2"/>
                 </div>
+                <h1 className="text-white blue-heading">REVIEWS</h1>
                 <div className="col artist-display">
-                    <h1 className="text-white">REVIEWS</h1>
+                    <span className="star">★★★★★</span>
                     <h2 className="text-white">ARTIST</h2>
                     <p className="desc">"Love it, it's the Best.I can't live without it!"</p>
                 </div>
                 <div className="col produce-display">
+                    <span className="star">★★★★★</span>
                     <h2 className="text-white">PRODUCER</h2>
                     <p className="desc">"Love it, it's the Best.I can't live without it!"</p>
                 </div>
                 <div className="col music-display">
+                    <span className="star">★★★★★</span>
                     <h2 className="text-white">MUSIC FAN</h2>
                     <p className="desc">"Love it, it's the Best.I can't live without it!"</p>
                 </div>
