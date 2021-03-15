@@ -7,6 +7,7 @@ import NavTool from './components/NavTool';
 import YellowSection from './components/YellowSection';
 import PerksSection from './components/PerksSection';
 import BlueSection from './components/BlueSection';
+import GetExpcon from './GetSection';
 
 
 function callback(){
@@ -38,6 +39,7 @@ componentDidMount(){
           <YellowSection />
           <PerksSection />
           <BlueSection />
+          <GetExpcon />
         </div>
       </div>
     );
