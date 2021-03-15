@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/jmxdg1029.github.io/static/css/main.af94ac90.chunk.css",
-    "main.js": "/jmxdg1029.github.io/static/js/main.7ecf3a1a.chunk.js",
-    "main.js.map": "/jmxdg1029.github.io/static/js/main.7ecf3a1a.chunk.js.map",
-    "runtime-main.js": "/jmxdg1029.github.io/static/js/runtime-main.9f0e5238.js",
-    "runtime-main.js.map": "/jmxdg1029.github.io/static/js/runtime-main.9f0e5238.js.map",
+    "main.css": "/jmxdg1029.github.io/static/css/main.cbb09929.chunk.css",
+    "main.js": "/jmxdg1029.github.io/static/js/main.67dd31a6.chunk.js",
+    "main.js.map": "/jmxdg1029.github.io/static/js/main.67dd31a6.chunk.js.map",
+    "runtime-main.js": "/jmxdg1029.github.io/static/js/runtime-main.d6ec66f5.js",
+    "runtime-main.js.map": "/jmxdg1029.github.io/static/js/runtime-main.d6ec66f5.js.map",
     "static/css/2.b684ca30.chunk.css": "/jmxdg1029.github.io/static/css/2.b684ca30.chunk.css",
-    "static/js/2.02978522.chunk.js": "/jmxdg1029.github.io/static/js/2.02978522.chunk.js",
-    "static/js/2.02978522.chunk.js.map": "/jmxdg1029.github.io/static/js/2.02978522.chunk.js.map",
-    "static/js/3.90805ad6.chunk.js": "/jmxdg1029.github.io/static/js/3.90805ad6.chunk.js",
-    "static/js/3.90805ad6.chunk.js.map": "/jmxdg1029.github.io/static/js/3.90805ad6.chunk.js.map",
+    "static/js/2.0961fcc4.chunk.js": "/jmxdg1029.github.io/static/js/2.0961fcc4.chunk.js",
+    "static/js/2.0961fcc4.chunk.js.map": "/jmxdg1029.github.io/static/js/2.0961fcc4.chunk.js.map",
+    "static/js/3.98afa379.chunk.js": "/jmxdg1029.github.io/static/js/3.98afa379.chunk.js",
+    "static/js/3.98afa379.chunk.js.map": "/jmxdg1029.github.io/static/js/3.98afa379.chunk.js.map",
     "index.html": "/jmxdg1029.github.io/index.html",
     "static/css/2.b684ca30.chunk.css.map": "/jmxdg1029.github.io/static/css/2.b684ca30.chunk.css.map",
-    "static/css/main.af94ac90.chunk.css.map": "/jmxdg1029.github.io/static/css/main.af94ac90.chunk.css.map",
-    "static/js/2.02978522.chunk.js.LICENSE.txt": "/jmxdg1029.github.io/static/js/2.02978522.chunk.js.LICENSE.txt",
+    "static/css/main.cbb09929.chunk.css.map": "/jmxdg1029.github.io/static/css/main.cbb09929.chunk.css.map",
+    "static/js/2.0961fcc4.chunk.js.LICENSE.txt": "/jmxdg1029.github.io/static/js/2.0961fcc4.chunk.js.LICENSE.txt",
     "static/media/Image 2.3f7e3447.png": "/jmxdg1029.github.io/static/media/Image 2.3f7e3447.png",
     "static/media/Image 3.2b364746.png": "/jmxdg1029.github.io/static/media/Image 3.2b364746.png",
     "static/media/Image 4.e3a535c2.png": "/jmxdg1029.github.io/static/media/Image 4.e3a535c2.png",
+    "static/media/SmallSpeaker1-03.6b61794a.png": "/jmxdg1029.github.io/static/media/SmallSpeaker1-03.6b61794a.png",
+    "static/media/SmallSpeaker2-03.79194761.png": "/jmxdg1029.github.io/static/media/SmallSpeaker2-03.79194761.png",
     "static/media/image 1_1.01ef02c0.png": "/jmxdg1029.github.io/static/media/image 1_1.01ef02c0.png",
     "static/media/medium17.13c131bf.png": "/jmxdg1029.github.io/static/media/medium17.13c131bf.png",
     "static/media/medium27.a7bb7507.png": "/jmxdg1029.github.io/static/media/medium27.a7bb7507.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f0e5238.js",
+    "static/js/runtime-main.d6ec66f5.js",
     "static/css/2.b684ca30.chunk.css",
-    "static/js/2.02978522.chunk.js",
-    "static/css/main.af94ac90.chunk.css",
-    "static/js/main.7ecf3a1a.chunk.js"
+    "static/js/2.0961fcc4.chunk.js",
+    "static/css/main.cbb09929.chunk.css",
+    "static/js/main.67dd31a6.chunk.js"
   ]
 }
