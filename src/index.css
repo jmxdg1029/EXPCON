@@ -9,6 +9,10 @@ body {
   cursor: none;
 }
 
+a{
+  opacity: 100%;
+}
+
 .hero-slide {
   height: 50vh;
 }
