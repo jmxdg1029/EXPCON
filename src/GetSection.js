@@ -5,7 +5,15 @@ class GetExpcon extends Component {
     render() { 
         return ( 
         <div className="get-section">
-
+            <div className="row justify-center">
+                <div className="col">
+                
+                    
+                </div>
+                <div className="col">
+                    
+                </div>
+            </div>
         </div>);
     }
 }

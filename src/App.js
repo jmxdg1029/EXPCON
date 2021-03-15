@@ -8,6 +8,7 @@ import YellowSection from './components/YellowSection';
 import PerksSection from './components/PerksSection';
 import BlueSection from './components/BlueSection';
 import GetExpcon from './GetSection';
+import FooterSection from './components/FooterSection';
 
 
 function callback(){
@@ -40,6 +41,7 @@ componentDidMount(){
           <PerksSection />
           <BlueSection />
           <GetExpcon />
+          <FooterSection />
         </div>
       </div>
     );

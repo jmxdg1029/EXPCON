@@ -74,10 +74,21 @@ a{
 .get-section{
   cursor: none;
   position: relative;
-  height: 100vh;
-  min-height: 100vh;
+  height: 60vh;
+  min-height: 60vh;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   background-color:black;
+}
+
+.footer-section{
+  cursor: none;
+  position: relative;
+  height: 40vh;
+  min-height: 40vh;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color:#6A5ACD;
 }
